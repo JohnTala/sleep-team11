@@ -3,7 +3,7 @@
 // loadHeaderFooter();
 
 // src/checkout/checkout.js
-import { qs, getLocalStorage, loadHeaderFooter } from "../js/utils.mjs";
+import { qs, getLocalStorage, loadHeaderFooter } from "./utils.mjs";
 
 loadHeaderFooter();
 

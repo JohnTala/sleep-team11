@@ -30,7 +30,7 @@
 // renderCartContents();
 
 // src/cart/cart.js
-import { qs, getLocalStorage, setLocalStorage, loadHeaderFooter } from "../js/utils.mjs";
+import { qs, getLocalStorage, setLocalStorage, loadHeaderFooter } from "./utils.mjs";
 
 loadHeaderFooter();
 

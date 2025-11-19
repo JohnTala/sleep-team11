@@ -24,10 +24,10 @@
 // // product.init();
 
 // src/product_pages/product.js
-import { qs, loadHeaderFooter, getParam } from "../js/utils.mjs";
-import ProductData from "../js/ProductData.mjs";
-import ProductDetails from "../js/ProductDetails.mjs";
-import { addToCart } from "../js/addToCart.js";
+import { qs, loadHeaderFooter, getParam } from "./utils.mjs";
+import ProductData from "./ProductData.mjs";
+import ProductDetails from "./ProductDetails.mjs";
+import { addToCart } from "./addToCart.js";
 
 loadHeaderFooter();
 
