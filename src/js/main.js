@@ -1,4 +1,3 @@
-//main.js linked to src/index.html
 import ProductData from "./ProductData.mjs";
 import ProductList from "./ProductList.mjs";
 
